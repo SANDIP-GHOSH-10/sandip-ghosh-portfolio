@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Sandip Ghosh | Frontend Developer",
     description: "Explore the portfolio of Sandip Ghosh, a Frontend Developer specializing in modern web technologies.",
-    url: "https://sandipghosh.com",
+    url: "https://sandip-ghosh-portfolio.vercel.app/",
     siteName: "Sandip Ghosh Portfolio",
     images: [
       {
