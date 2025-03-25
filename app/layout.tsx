@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     siteName: "Sandip Ghosh Portfolio",
     images: [
       {
-        url: "https://sandip-ghosh-portfolio.vercel.app/public/image/ogimg.png",
+        url: "https://sandip-ghosh-portfolio.vercel.app/image/ogimg.png",
         width: 1200,
         height: 630,
         alt: "Sandip Ghosh Portfolio Thumbnail",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     site: "@sandipghosh10",
     title: "Sandip Ghosh | Frontend Developer",
     description: "Explore the portfolio of Sandip Ghosh, a Frontend Developer specializing in modern web technologies.",
-    images: ["https://sandip-ghosh-portfolio.vercel.app/public/image/ogimg.png"],
+    images: ["https://sandip-ghosh-portfolio.vercel.app/image/ogimg.png"],
   },
 };
 
